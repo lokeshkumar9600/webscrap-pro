@@ -1,0 +1,29 @@
++------------------+-----------------------------------------+----------+---------+---------+
+|    StockName     |               CompanyName               |  Price   |  Change | %Change |
++------------------+-----------------------------------------+----------+---------+---------+
+|    STELLAR.BO    |     Stellar Capital Services Limited    |  4.0800  | +0.6800 | +20.00% |
+|   RPPINFRA.NS    |      R.P.P. Infra Projects Limited      |  69.95   |  +11.55 | +19.78% |
+|   RPPINFRA.BO    |      R.P.P. Infra Projects Limited      |  70.65   |  +11.55 | +19.54% |
+|   ULTRAMAR.BO    |      Ultramarine & Pigments Limited     |  313.90  |  +51.25 | +19.51% |
+|     CTCL.BO      |        Captain Technocast Limited       |  21.00   |  +3.30  | +18.64% |
+|     DEEP.BO      |          Deep Polymers Limited          |  70.50   |  +9.00  | +14.63% |
+|    KHFM-SM.NS    |            KHFM H AND F MGT S           |  31.80   |  +3.90  | +13.98% |
+| SRTRANSFIN-ZK.NS |           Sec Red NCD Sr.VIII           | 1,199.00 | +134.00 | +12.58% |
+|   JAYAGROGN.NS   |       Jayant Agro-Organics Limited      |  147.45  |  +16.10 | +12.26% |
+|  SHALPAINTS.BO   |         Shalimar Paints Limited         |  112.80  |  +12.25 | +12.18% |
+|   JAYAGROGN.BO   |       Jayant Agro-Organics Limited      |  147.40  |  +16.00 | +12.18% |
+|  SHALPAINTS.NS   |         Shalimar Paints Limited         |  112.80  |  +12.20 | +12.13% |
+|    UCL-SM.NS     |            USHANTI COLOUR CHE           |  31.95   |  +3.35  | +11.71% |
+|   IBREALEST.BO   |      Indiabulls Real Estate Limited     |  87.20   |  +9.10  | +11.65% |
+|    DECCAN.BO     |        Deccan Health Care Limited       |  29.30   |  +3.05  | +11.62% |
+|   HINDZINC.BO    |          Hindustan Zinc Limited         |  299.30  |  +31.15 | +11.62% |
+|   IBREALEST.NS   |      Indiabulls Real Estate Limited     |  87.15   |  +9.05  | +11.59% |
+|    JONJUA.BO     |         Jonjua Overseas Limited         |  55.00   |  +5.65  | +11.45% |
+|   HINDZINC.NS    |          Hindustan Zinc Limited         |  298.80  |  +30.20 | +11.24% |
+|  CEREBRAINT.BO   | Cerebra Integrated Technologies Limited |  45.75   |  +4.55  | +11.04% |
+|  CEREBRAINT.NS   | Cerebra Integrated Technologies Limited |  45.65   |  +4.50  | +10.94% |
+|   GALLANTT.NS    |          Gallantt Metal Limited         |  44.70   |  +4.40  | +10.92% |
+|   GALLANTT.BO    |          Gallantt Metal Limited         |  44.80   |  +4.35  | +10.75% |
+|    PCCOSMA.BO    |        Pee Cee Cosma Sope Limited       |  114.70  |  +11.05 | +10.66% |
+|   ADVITIYA.BO    |       Advitiya Trade India Limited      |  15.00   |  +1.40  | +10.29% |
++------------------+-----------------------------------------+----------+---------+---------+
